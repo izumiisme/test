@@ -1,0 +1,11 @@
+package person;
+
+public class Person {
+
+	public Stiring name=null;
+
+	public int age=0;
+
+
+
+}

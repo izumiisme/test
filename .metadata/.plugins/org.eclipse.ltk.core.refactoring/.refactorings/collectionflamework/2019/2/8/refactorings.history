@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="コンパイル単位名 &apos;jp.co.internous.action.Map.java&apos; を &apos;MapSample.java&apos; に変更&#x0D;&#x0A;- 元のプロジェクト: &apos;collectionflamework&apos;&#x0D;&#x0A;- オリジナル要素: &apos;jp.co.internous.action.Map.java&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;jp.co.internous.action.MapSample.java&apos;" description="コンパイル単位名 &apos;Map.java&apos; を変更します" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;jp.co.internous.action{Map.java" name="MapSample.java" references="false" stamp="1550658214659" version="1.0"/>
+</session>
