@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package sql;
+
+/**
+ * @author testuser
+ *
+ */
+public class DBConnector {
+
+}
