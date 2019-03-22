@@ -1,0 +1,6 @@
+127.0.0.1 - - [22/Mar/2019:20:35:35 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [22/Mar/2019:20:35:37 +0900] "GET /HelloServlet/ HTTP/1.1" 200 822
+0:0:0:0:0:0:0:1 - - [22/Mar/2019:20:37:48 +0900] "GET /HelloServlet/TestServlet?username=yaamda&password=111 HTTP/1.1" 200 57
+127.0.0.1 - - [22/Mar/2019:20:48:47 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [22/Mar/2019:20:48:47 +0900] "GET /HelloServlet/ HTTP/1.1" 200 822
+0:0:0:0:0:0:0:1 - - [22/Mar/2019:20:49:03 +0900] "GET /HelloServlet/MySQLServlet HTTP/1.1" 200 137
