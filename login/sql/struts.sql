@@ -1,6 +1,6 @@
 set names utf8;
-set foreign_key_checkes=0;
-drop database ig exists logindb_fujie;
+set foreign_key_checks=0;
+drop database if exists logindb_fujie;
 create database logindb_fujie;
 use logindb_fujie;
 

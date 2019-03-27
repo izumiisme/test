@@ -41,7 +41,7 @@ countB++;
 
 <p>お名前を入力してください</p>
 <form method="post" action="greeting-out.jsp">
-<input type="txst" name="user">
+<input type="text" name="user">
 <input type="submit" value="確定">
 </form>
 

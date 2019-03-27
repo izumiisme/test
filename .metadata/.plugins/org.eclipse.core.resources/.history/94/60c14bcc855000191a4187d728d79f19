@@ -1,0 +1,19 @@
+set names utf8;
+set foreign_key_checkes=0;
+drop database ig exists logindb_fujie;
+create database logindb_fujie;
+use logindb_fujie;
+
+create table user(
+id int,
+user_name varchar(255),
+password varchar(255)
+);
+
+insert into user values
+(1,"taro","123"),
+(2,"jiro","123"),
+(3,"hanako","123"),
+(4,"saburo","123");
+
+
