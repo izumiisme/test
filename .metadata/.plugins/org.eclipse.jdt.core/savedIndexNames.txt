@@ -44,7 +44,6 @@ INDEX VERSION 1.127+C:\Users\testuser\Desktop\workspace\workspace-fujie\test\.me
 1183371321.index
 606032663.index
 1380389475.index
-1625154790.index
 3436260346.index
 2226854440.index
 4228328552.index
