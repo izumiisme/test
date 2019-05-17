@@ -18,4 +18,13 @@
   <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/ローカル・ホスト での Tomcat8 (Java8) (6)-config" deployDir="wtpwebapps" hostname="localhost" id="ローカル・ホスト での Tomcat8 (Java8) (6)" name="ローカル・ホスト での Tomcat8 (Java8) (6)" runtime-id="Tomcat8 (Java8)" server-type="org.eclipse.jst.server.tomcat.80" server-type-id="org.eclipse.jst.server.tomcat.80" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
     <list key="modules" value0="login3::org.eclipse.jst.jee.server:login3::jst.web::3.1"/>
   </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/ローカル・ホスト での Tomcat8 (Java8) (7)-config" deployDir="wtpwebapps" hostname="localhost" id="ローカル・ホスト での Tomcat8 (Java8) (7)" name="ローカル・ホスト での Tomcat8 (Java8) (7)" runtime-id="Tomcat8 (Java8)" server-type="org.eclipse.jst.server.tomcat.80" server-type-id="org.eclipse.jst.server.tomcat.80" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="login4::org.eclipse.jst.jee.server:login4::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/ローカル・ホスト での Tomcat8 (Java8) (8)-config" deployDir="wtpwebapps" hostname="localhost" id="ローカル・ホスト での Tomcat8 (Java8) (8)" name="ローカル・ホスト での Tomcat8 (Java8) (8)" runtime-id="Tomcat8 (Java8)" server-type="org.eclipse.jst.server.tomcat.80" server-type-id="org.eclipse.jst.server.tomcat.80" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="login4::org.eclipse.jst.jee.server:login4::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/ローカル・ホスト での Tomcat8 (Java8) (9)-config" deployDir="wtpwebapps" hostname="localhost" id="ローカル・ホスト での Tomcat8 (Java8) (9)" name="ローカル・ホスト での Tomcat8 (Java8) (9)" runtime-id="Tomcat8 (Java8)" server-type="org.eclipse.jst.server.tomcat.80" server-type-id="org.eclipse.jst.server.tomcat.80" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="login4::org.eclipse.jst.jee.server:login4::jst.web::3.1"/>
+  </server>
 </servers>
