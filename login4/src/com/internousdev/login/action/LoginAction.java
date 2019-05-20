@@ -22,6 +22,7 @@ public class LoginAction extends ActionSupport{
 
 		if(name.equals(dto.getName())){
 			if(password.equals(dto.getPassword())){
+				ret = SUCCESS;
 		}
 	}
 		return ret;
