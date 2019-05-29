@@ -1,0 +1,5 @@
+package com.interousdev.webproj2.dao;
+
+public class HelloStrutsDAO {
+
+}

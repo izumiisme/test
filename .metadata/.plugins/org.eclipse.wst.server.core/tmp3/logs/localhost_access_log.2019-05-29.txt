@@ -1,0 +1,14 @@
+127.0.0.1 - - [29/May/2019:18:50:38 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:50:42 +0900] "GET /WebProj/ HTTP/1.1" 200 2310
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:50:46 +0900] "POST /WebProj/HelloStrutsAction.action;jsessionid=DA3BC407B21F3DEFB9BBCC1A450AC377 HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:50:49 +0900] "POST /WebProj/WelcomeAction.action;jsessionid=DA3BC407B21F3DEFB9BBCC1A450AC377 HTTP/1.1" 200 850
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:50:53 +0900] "POST /WebProj/InquiryAction.action;jsessionid=DA3BC407B21F3DEFB9BBCC1A450AC377 HTTP/1.1" 200 961
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:51:17 +0900] "POST /WebProj/InquiryCompleteAction.action HTTP/1.1" 200 356
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:51:28 +0900] "GET /WebProj/TestAction.action;jsessionid=DA3BC407B21F3DEFB9BBCC1A450AC377?username=abc&password=123 HTTP/1.1" 200 140
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:51:39 +0900] "POST /WebProj/TestAction.action;jsessionid=DA3BC407B21F3DEFB9BBCC1A450AC377 HTTP/1.1" 200 140
+0:0:0:0:0:0:0:1 - - [29/May/2019:18:56:17 +0900] "GET /WebProj/ HTTP/1.1" 200 2090
+0:0:0:0:0:0:0:1 - - [29/May/2019:19:01:27 +0900] "POST /WebProj/HelloStrutsAction.action HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [29/May/2019:19:01:30 +0900] "POST /WebProj/WelcomeAction.action HTTP/1.1" 200 850
+0:0:0:0:0:0:0:1 - - [29/May/2019:19:01:39 +0900] "POST /WebProj/LoginAction.action HTTP/1.1" 200 160
+0:0:0:0:0:0:0:1 - - [29/May/2019:19:01:44 +0900] "POST /WebProj/InquiryAction.action HTTP/1.1" 200 961
+0:0:0:0:0:0:0:1 - - [29/May/2019:19:01:53 +0900] "POST /WebProj/InquiryCompleteAction.action HTTP/1.1" 200 338
