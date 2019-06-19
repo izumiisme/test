@@ -1,0 +1,8 @@
+package com.internousdeb.webproj3.dto;
+
+public class Snippet {
+	public static void main(String[] args) {
+		com.internousdeb.webproj3.action
+	}
+}
+

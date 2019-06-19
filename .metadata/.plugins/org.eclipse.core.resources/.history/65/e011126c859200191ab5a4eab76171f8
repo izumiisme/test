@@ -1,0 +1,5 @@
+package com.internousdeb.webproj3.util;
+
+public class DBConnector {
+
+}
